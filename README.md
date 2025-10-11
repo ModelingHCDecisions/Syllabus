@@ -25,5 +25,8 @@ https://yaesoubilab.ucsf.edu/
    - [Lab](https://classroom.github.com/a/rymIKm9x)
    - Readings: Chapter 5, Appendix B
    - [Homework](https://classroom.github.com/a/j3TcBU8s)
-3. [next]
-   - [Lab](https://classroom.github.com/a/E0hRmVyw) 
+3. [Introduction to individual-level simulation models](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/EZEm0DqdT4tFo9r6pRBvE90Bd9mZCaneq3SqyPrTYgc4IA?e=vB8QuY)
+   - [Lab](https://classroom.github.com/a/E0hRmVyw)
+   - Readings:
+   - [Homework]()
+
