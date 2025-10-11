@@ -22,14 +22,81 @@ https://yaesoubilab.ucsf.edu/
    - [Lecture](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/EcZgRp6b1tdMqDdGhAWp4ocBMZHzPyVDKNNyTWez2hVBMQ?e=TcVJc2)
    - Readings: Chapters 1, 2, 3 (3.1-3.10), 19, 20
    - [Homework](https://classroom.github.com/a/Xb2zfzZY)
+
 2. **Introduction to object-oriented programming in Python**
    - [Lecture](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/EdilAnioDmtEl4r-T6Sm0hYBWsV22jmARe5iZqAPpzkVKg?e=nPbHDo)
    - [Lab](https://classroom.github.com/a/rymIKm9x)
    - Readings: Chapter 5, Appendix B
    - [Homework](https://classroom.github.com/a/j3TcBU8s)
+
 3. **Introduction to individual-level simulation models**
    - [Lecture](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/EZEm0DqdT4tFo9r6pRBvE90Bd9mZCaneq3SqyPrTYgc4IA?e=vB8QuY)
    - [Lab](https://classroom.github.com/a/E0hRmVyw)
-   - Readings:
+   - Readings: Chapter 4
    - [Homework]()
 
+4. **Markov models**
+   - [Lecture]()
+   - [Lab]()
+   - Readings: Chapter 6 
+   - [Homework]()
+
+5. **Continuous-time Markov models**
+    - [Lecture]()
+    - [Lab]()
+    - Readings: Chapter 7
+    - [Homework]()
+
+6. **Discrete-event simulation, Part 1**
+    - [Lecture]()
+    - [Lab]()
+    - Readings: Chapter 8
+    - [Homework]()
+
+7. **Discrete-event simulation, Part 2**
+    - [Lecture]()
+    - [Lab]()
+    - Readings: Chapter 8
+    - [Homework]()
+
+8. **Output analysis**
+    - [Lecture]()
+    - [Lab]()
+    - Readings: 
+    - [Homework]()
+
+9. **Calibration and parameter estimation**
+    - [Lecture]()
+    - [Lab]()
+    - Readings: 
+    - [Homework]()
+
+10. **Comparing simulated systems**
+    - [Lecture]()
+    - [Lab]()
+    - Readings: 
+    - [Homework]()
+
+11. **Economic evaluation using simulation models**
+    - [Lecture]()
+    - [Lab]()
+    - Readings: 
+    - [Homework]()
+
+12. **Fitting probability distributions and generating random variates**
+    - [Lecture]()
+    - [Lab]()
+    - Readings: 
+    - [Homework]()
+
+13. **Modeling parameter uncertainty**
+    - [Lecture]()
+    - [Lab]()
+    - Readings: 
+    - [Homework]()
+
+14. **Optimizing Python code**
+    - [Lecture]()
+    - [Lab]()
+    - Readings: 
+    - [Homework]()
