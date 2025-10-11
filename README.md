@@ -16,7 +16,7 @@ https://yaesoubilab.ucsf.edu/
 
 ## Lectures, Labs and Homework Assignments
 
-**Class notes** can be downloaded from [here](https://ucsfonline-my.sharepoint.com/:b:/g/personal/reza_yaesoubi_ucsf_edu/ES1AqbsqHzVBtkAhtPQkkigBhedkzaydJtVzfmAs1Uoj0g?e=zsgdSB).
+**Class notes can be downloaded from [here](https://ucsfonline-my.sharepoint.com/:b:/g/personal/reza_yaesoubi_ucsf_edu/ES1AqbsqHzVBtkAhtPQkkigBhedkzaydJtVzfmAs1Uoj0g?e=zsgdSB).**
 
 1. [Introduction to modeling health care decisions](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/EcZgRp6b1tdMqDdGhAWp4ocBMZHzPyVDKNNyTWez2hVBMQ?e=TcVJc2)
    - Readings: Chapters 1, 2, 3 (3.1-3.10), 19, 20
