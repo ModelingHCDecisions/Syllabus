@@ -4,7 +4,7 @@
 ## Instructor
 
 Reza Yaesoubi, Ph.D.\
-Associate Professor 
+Associate Professor\
 Philip R. Lee Institute for Health Policy Studies\
 University of California San Francisco\
 https://yaesoubilab.ucsf.edu/
@@ -62,37 +62,37 @@ https://yaesoubilab.ucsf.edu/
 8. **Output analysis**
     - [Lecture]()
     - [Lab]()
-    - Readings: 
+    - Readings: Chapter 12
     - [Homework]()
 
 9. **Calibration and parameter estimation**
     - [Lecture]()
     - [Lab]()
-    - Readings: 
+    - Readings: Chapter 15
     - [Homework]()
 
 10. **Comparing simulated systems**
     - [Lecture]()
     - [Lab]()
-    - Readings: 
+    - Readings: Chapters 16 and 18
     - [Homework]()
 
 11. **Economic evaluation using simulation models**
     - [Lecture]()
     - [Lab]()
-    - Readings: 
+    - Readings: Chapter 21
     - [Homework]()
 
 12. **Fitting probability distributions and generating random variates**
     - [Lecture]()
     - [Lab]()
-    - Readings: 
+    - Readings: Chapter 9
     - [Homework]()
 
 13. **Modeling parameter uncertainty**
     - [Lecture]()
     - [Lab]()
-    - Readings: 
+    - Readings: Chapters 14 and 22
     - [Homework]()
 
 14. **Optimizing Python code**
