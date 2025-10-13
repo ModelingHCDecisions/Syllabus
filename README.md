@@ -36,61 +36,61 @@ https://yaesoubilab.ucsf.edu/
    - [Homework]()
 
 4. **Markov models**
-   - [Lecture]()
+   - [Lecture](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/EV73qTWsdjxLrIz-BcWudhcBjmsIOspuKTKpTQld02qFwg?e=cfJyhO)
    - [Lab]()
    - Readings: Chapter 6 
    - [Homework]()
 
 5. **Continuous-time Markov models**
-    - [Lecture]()
+    - [Lecture](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/EWsxJYHscKBJnozUrCpn8_gB9GJ1ze7WQBwj95UvPswhQQ?e=ECz6PC)
     - [Lab]()
     - Readings: Chapter 7
     - [Homework]()
 
 6. **Discrete-event simulation, Part 1**
-    - [Lecture]()
+    - [Lecture](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/EbCI46FS7bZCjOA5zWLbIH0Bsqals8VuBqrkgOb_uZSXdg?e=Mg3Aqc)
     - [Lab]()
     - Readings: Chapter 8
     - [Homework]()
 
 7. **Discrete-event simulation, Part 2**
-    - [Lecture]()
+    - [Lecture](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/ER6LjtX4TMNMqhkko4tjUyUB8ZAiv7oPqNgpjhhkqAMaOg?e=qNdqQC)
     - [Lab]()
     - Readings: Chapter 8
     - [Homework]()
 
 8. **Output analysis**
-    - [Lecture]()
+    - [Lecture](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/EQ5jaA5tZlNEv3qoNhNYCaABrPOOEwP-2XmYvkcU876lbQ?e=u9FgFB)
     - [Lab]()
     - Readings: Chapter 12
     - [Homework]()
 
 9. **Calibration and parameter estimation**
-    - [Lecture]()
+    - [Lecture](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/Ee5JvkzTYh1DgRfYh9NO9rkBLTBIE1sub_pn7drRO93Xqg?e=YCAgqF)
     - [Lab]()
     - Readings: Chapter 15
     - [Homework]()
 
 10. **Comparing simulated systems**
-    - [Lecture]()
+    - [Lecture](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/EQGpmD3CSU1Fmj4DzU353aoBQiG2N8Zq3EwxUeiaTSF6Mw?e=YJ3Zht)
     - [Lab]()
     - Readings: Chapters 16 and 18
     - [Homework]()
 
 11. **Economic evaluation using simulation models**
-    - [Lecture]()
+    - [Lecture](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/EeQBNlaFXIxHjo877IEEmBAB9UoUgCstqM1Mr8izMRJQhw?e=jY5qf0)
     - [Lab]()
     - Readings: Chapter 21
     - [Homework]()
 
 12. **Fitting probability distributions and generating random variates**
-    - [Lecture]()
+    - [Lecture](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/EQO4BdtZ6AtGj_auGJTrpcIBRhGf7JDkvpeWbYfsY55fNg?e=X1SFTp)
     - [Lab]()
     - Readings: Chapter 9
     - [Homework]()
 
 13. **Modeling parameter uncertainty**
-    - [Lecture]()
+    - [Lecture](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/ERgnRwIAsY5AkQe2TxGo0vEBMP08Ci723SR_YET2qg6tjQ?e=mfZlRE)
     - [Lab]()
     - Readings: Chapters 14 and 22
     - [Homework]()
