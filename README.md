@@ -37,7 +37,7 @@ https://yaesoubilab.ucsf.edu/
 
 4. **Markov models**
    - [Lecture](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/EV73qTWsdjxLrIz-BcWudhcBjmsIOspuKTKpTQld02qFwg?e=cfJyhO)
-   - [Lab]()
+   - [Lab](https://classroom.github.com/a/tFE8JcP-)
    - Readings: Chapter 6 
    - [Homework]()
 
