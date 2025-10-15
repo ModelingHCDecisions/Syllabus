@@ -15,12 +15,12 @@ https://yaesoubilab.ucsf.edu/
 - Watch the first 11 lectures of the MIT Open Course [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/) . 
 
 ## Reading Materials
-**Class notes can be downloaded from [here](https://ucsfonline-my.sharepoint.com/:b:/g/personal/reza_yaesoubi_ucsf_edu/ES1AqbsqHzVBtkAhtPQkkigBhedkzaydJtVzfmAs1Uoj0g?e=zsgdSB).**
+Class notes can be downloaded from [here](https://ucsfonline-my.sharepoint.com/:b:/g/personal/reza_yaesoubi_ucsf_edu/ES1AqbsqHzVBtkAhtPQkkigBhedkzaydJtVzfmAs1Uoj0g?e=zsgdSB).
 
 
 ## Lectures, Labs, and Homework Assignments
 
-**If you get an error running the code for any of the labs, please first update your `deampy` package and if this does not resolve the issue, please let the instructor know.**
+If you get an error running the code for any of the labs, please first update your `deampy` package and if this does not resolve the issue, please let the instructor know.
 
 1. **Introduction to modeling health care decisions**
    - [Lecture](https://ucsfonline-my.sharepoint.com/:v:/g/personal/reza_yaesoubi_ucsf_edu/EcZgRp6b1tdMqDdGhAWp4ocBMZHzPyVDKNNyTWez2hVBMQ?e=TcVJc2)
